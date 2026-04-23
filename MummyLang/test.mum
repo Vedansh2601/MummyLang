@@ -1,0 +1,13 @@
+mummy ye he x = 10;
+mummy ye he i = 0;
+mummy ye he y;
+mummy pucho y;
+mummy jab tak (i < 5)
+    mummy agar (i > 2)
+        mummy bolo y;
+    end
+    nahi to
+        mummy bolo i;
+    end 
+    i = i + 1;
+end
